@@ -827,7 +827,7 @@ variable
 Exercises
 ---------
 
-**Exercise 2: Write a program that uses `input` to prompt a user for
+**Exercise 1: Write a program that uses `input` to prompt a user for
 their name and then welcomes them.**
 
 ~~~~
@@ -835,7 +835,7 @@ Enter your name: Chuck
 Hello Chuck
 ~~~~
 
-**Exercise 3: Write a program to prompt the user for hours and rate per
+**Exercise 2: Write a program to prompt the user for hours and rate per
 hour to compute gross pay.**
 
 ~~~~
@@ -849,7 +849,7 @@ the decimal place for now. If you want, you can play with the built-in
 Python `round` function to properly round the resulting pay
 to two decimal places.
 
-**Exercise 4: Assume that we execute the following assignment statements:**
+**Exercise 3: Assume that we execute the following assignment statements:**
 
 ~~~~
 width = 17
